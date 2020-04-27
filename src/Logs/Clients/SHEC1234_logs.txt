@@ -1,0 +1,39 @@
+Request type: Book an event | Resonse: Booking request has been approved --> eventType:TRADE SHOWS eventID:MTLA170620
+Request type: Book an event | Resonse: Booking request has been approved --> eventType:Trade Shows eventID:MTLA170620
+Request type: Book an event | Resonse: Booking request has been approved --> eventType:TRADE SHOWS eventID:MTLA170620
+Request type: Book an event | Resonse: Booking request has been approved --> eventType:Trade Shows eventID:MTLA170620
+Request type: Book an event | Resonse: Booking request has been approved --> eventType:TRADE SHOWS eventID:MTLA170620
+Request type: Book an event | Resonse: Booking request has been approved --> eventType:Trade Shows eventID:MTLA170620
+Request type: Book an event | Resonse: Booking request has been approved --> eventType:TRADE SHOWS eventID:MTLA170620
+Request type: Book an event | Resonse: Booking request has been approved --> eventType:Trade Shows eventID:MTLA170620
+Request type: Book an event | Resonse: Booking request has been approved --> eventType:TRADE SHOWS eventID:MTLA170620
+Request type: Book an event | Resonse: Booking request has been approved --> eventType:Trade Shows eventID:MTLA170620
+Request type: Book an event | Resonse: Booking request has been approved --> eventType:TRADE SHOWS eventID:MTLA170620
+Request type: Book an event | Resonse: Booking request has been approved --> eventType:Trade Shows eventID:MTLA170620
+Request type: Book an event | Resonse: Booking request has been approved --> eventType:TRADE SHOWS eventID:MTLA170620
+Request type: Book an event | Resonse: Booking request has been approved --> eventType:Trade Shows eventID:MTLA170620
+Request type: Book an event | Resonse: Booking request has been approved --> eventType:TRADE SHOWS eventID:MTLA170620
+Request type: Book an event | Resonse: Booking request has been approved --> eventType:Trade Shows eventID:MTLA170620
+Request type: Book an event | Resonse: Booking request has been approved --> eventType:TRADE SHOWS eventID:MTLA170620
+Request type: Book an event | Resonse: Booking request has been approved --> eventType:Trade Shows eventID:MTLA170620
+Request type: Book an event | Resonse: Booking request has been approved --> eventType:TRADE SHOWS eventID:MTLA170620
+Request type: Book an event | Resonse: Booking request has been approved --> eventType:Trade Shows eventID:MTLA170620
+Request type: Book an event | Resonse: Booking request has been approved --> eventType:TRADE SHOWS eventID:MTLA170620
+Request type: Book an event | Resonse: Booking request has been approved --> eventType:Trade Shows eventID:MTLA170620
+Request type: Book an event | Resonse: Booking request has been approved --> eventType:CONFERENCES eventID:MTLM303030
+Request type: Book an event | Resonse: Booking request has been approved --> eventType:Conferences eventID:MTLM303030
+Request type: Remove event | Resonse: eventType:CONFERENCES eventID:MTLM202020 has been replaced
+Request type: Book an event | Resonse: Booking request has been approved --> eventType:CONFERENCES eventID:MTLE303030
+Request type: Book an event | Resonse: Booking request has been approved --> eventType:Conferences eventID:MTLE303030
+Request type: Book an event | Resonse: Booking request has been approved --> eventType:CONFERENCES eventID:MTLA303030
+Request type: Book an event | Resonse: Booking request has been approved --> eventType:Conferences eventID:MTLA303030
+Request type: Remove event | Resonse: eventType:CONFERENCES eventID:MTLA303030 has been removed
+Request type: Book an event | Resonse: Booking request has been approved --> eventType:CONFERENCES eventID:MTLA303030
+Request type: Book an event | Resonse: Booking request has been approved --> eventType:Conferences eventID:MTLA303030
+Request type: Book an event | Resonse: Booking request has been approved --> eventType:CONFERENCES eventID:MTLA303030
+Request type: Book an event | Resonse: Booking request has been approved --> eventType:Conferences eventID:MTLA303030
+Request type: Book an event | Resonse: This event has already been booked --> eventType:Conferences eventID:MTLA303030
+Request type: Book an event | Resonse: Booking request has been approved --> eventType:CONFERENCES eventID:MTLA202020
+Request type: Book an event | Resonse: Booking request has been approved --> eventType:Conferences eventID:MTLA202020
+Request type: Remove event | Resonse: eventType:CONFERENCES eventID:MTLA505050 has been replaced
+Request type: Remove event | Resonse: eventType:CONFERENCES eventID:MTLE505050 has been replaced

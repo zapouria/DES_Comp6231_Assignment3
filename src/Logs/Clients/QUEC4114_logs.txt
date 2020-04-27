@@ -1,0 +1,2 @@
+Request type: Book an event | Resonse: Booking request has been approved --> eventType:TRADE SHOWS eventID:MTLA080620
+Request type: Book an event | Resonse: Booking request has been approved --> eventType:Trade Shows eventID:MTLA080620

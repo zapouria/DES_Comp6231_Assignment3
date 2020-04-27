@@ -1,0 +1,13 @@
+Request type: Book an event | Resonse: There is no capacity for eventType:Conferences eventID:MTLA101010
+Request type: Book an event | Resonse: Booking request has been approved --> eventType:Conferences eventID:MTLA101010
+Request type: Remove event | Resonse: eventType:CONFERENCES eventID:MTLA101010 has been removed
+Request type: Book an event | Resonse: There is no capacity for eventType:Conferences eventID:MTLA101010
+Request type: Book an event | Resonse: Booking request has been approved --> eventType:Conferences eventID:MTLA101010
+Request type: Remove event | Resonse: eventType:CONFERENCES eventID:MTLA101010 has been removed
+Request type: Book an event | Resonse: There is no capacity for eventType:Conferences eventID:MTLA101010
+Request type: Book an event | Resonse: Booking request has been approved --> eventType:Conferences eventID:MTLA101010
+Request type: Remove event | Resonse: eventType:CONFERENCES eventID:MTLA160620 has been replaced
+Request type: Book an event | Resonse: There is no capacity for eventType:Conferences eventID:MTLA101010
+Request type: Book an event | Resonse: Booking request has been approved --> eventType:Conferences eventID:MTLA101010
+Request type: Remove event | Resonse: eventType:CONFERENCES eventID:MTLM505050 has been replaced
+Request type: Book an event | Resonse: There is no capacity for eventType:Conferences eventID:MTLA101010
